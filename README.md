@@ -1,1 +1,1 @@
-This project is used as an introduction to component scanning in Spring
+This project is used as an introduction to setter injection in Spring
