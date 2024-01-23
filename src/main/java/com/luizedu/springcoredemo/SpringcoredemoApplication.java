@@ -3,7 +3,7 @@ package com.luizedu.springcoredemo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = {"com.luizedu.springcoredemo", "com.luizedu.utils"})
+@SpringBootApplication
 public class SpringcoredemoApplication {
 
 	public static void main(String[] args) {
