@@ -1,4 +1,4 @@
-package com.luizedu.springcoredemo;
+package com.luizedu.springcoredemo.common;
 
 import org.springframework.stereotype.Component;
 
