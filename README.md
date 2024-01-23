@@ -1,1 +1,1 @@
-This project is used as an introduction to setter injection in Spring
+This project is used as an introduction to field injection in Spring
