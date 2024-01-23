@@ -1,1 +1,1 @@
-This is the first project developed in the course used to introduce SpringBoot
+This project is used to introduce Spring Boot dev tools
