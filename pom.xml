@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.2.1</version>
+		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.luizedu.springboot.demo</groupId>
-	<artifactId>mycoolapp</artifactId>
+	<groupId>com.luizedu</groupId>
+	<artifactId>springcoredemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mycoolapp</name>
+	<name>springcoredemo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
@@ -21,13 +21,12 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-actuator</artifactId>
-		</dependency>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
+			<scope>runtime</scope>
+			<optional>true</optional>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -44,7 +43,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>com.luizedu.springboot.demo.mycoolapp.MycoolappApplication</mainClass>
+							<mainClass>com.luizedu.springcoredemo.SpringcoredemoApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

@@ -1,13 +1,13 @@
-package com.luizedu.springboot.demo.mycoolapp;
+package com.luizedu.springcoredemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MycoolappApplication {
+public class SpringcoredemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MycoolappApplication.class, args);
+		SpringApplication.run(SpringcoredemoApplication.class, args);
 	}
 
 }
