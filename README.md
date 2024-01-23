@@ -1,1 +1,1 @@
-This project is used to introduce Spring Boot dev tools
+This project is used to learn how to secure actuator endpoints
