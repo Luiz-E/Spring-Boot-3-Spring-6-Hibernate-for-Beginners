@@ -1,1 +1,1 @@
-This project is used as an introduction to bean scopes
+This project is used as an introduction to bean lifecycle methods
