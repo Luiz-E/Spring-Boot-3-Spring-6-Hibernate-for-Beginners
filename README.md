@@ -1,1 +1,1 @@
-This project is used as an introduction to the primary annotation
+This project is used as an introduction to lazy initialization
