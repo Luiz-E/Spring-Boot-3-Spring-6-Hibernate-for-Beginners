@@ -1,1 +1,1 @@
-This project is used as an introduction to lazy initialization
+This project is used as an introduction to bean scopes
