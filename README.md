@@ -1,1 +1,1 @@
-This project is used as an introduction to bean configuration using @Bean and @Configuration
+This project is used as an introduction to spring data jpa
